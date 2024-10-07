@@ -10,6 +10,7 @@ Playlist [Zero To Asic -> vlog](https://youtube.com/playlist?list=PLyynFETmdQDR7
 
 Highlighted Videos:
 
+- [Getting started with open source ASICs: community, tools & demos!](https://youtu.be/hSFUd7S2otE)
 - [Getting Started with Open Source Silicon, Presented By: Matthew Venn](https://youtu.be/sJhgTTS-j5Y), a long (1:25) presentation for the 
 IEEE Solid-State Circuits Society.
 
