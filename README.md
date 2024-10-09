@@ -6,6 +6,8 @@ Documentation (and maybe software later) on open-source chip design
 
 [Zero To ASIC](https://www.zerotoasiccourse.com/)
 
+[My Analog Microelectronics Journey - FOSSi Foundation ORConf 2024](https://youtu.be/DoFL6PPlErw)
+
 Playlist [Zero To Asic -> vlog](https://youtube.com/playlist?list=PLyynFETmdQDR7jJD5HyqOr7Z7zSV5WQrZ) for the Zero To Asic course
 
 Highlighted Videos:
@@ -25,8 +27,11 @@ IEEE Solid-State Circuits Society.
 - [How does SiliWiz work? Uri Shaked explains](https://youtu.be/sscRSCdGjJA)
 
 #### TinyTapeout
-
+- [Tiny Tapeout - From idea to custom chip without breaking the bank!](https://youtu.be/qVWq_XZko-M)
 - [Tiny Tapeout 3 - Getting started with Wokwi](https://youtu.be/ZD9jvSm50zM)
+- [Tiny Tapeout 4 - working with an HDL](https://youtu.be/KbWb6xd9jFE)
+- 
+- [Tiny Tapeout 5 - Getting your design ready to submit](https://youtu.be/m62HLt4BjeA)
 
 ## Various Videos
 
