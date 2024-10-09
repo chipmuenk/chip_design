@@ -20,18 +20,17 @@ IEEE Solid-State Circuits Society.
 
 [Siliwiz](https://app.siliwiz.com/) is a browser based tool to quickly layout simple semiconductor structures (resistors, MOS transistors, inverters ...), simulate them and view the cross section. Absoulutely amazing!
 
-[Tutorial](https://tinytapeout.com/siliwiz)
-
+- [Tutorial](https://tinytapeout.com/siliwiz)
 - [SiliWiz Inverter Speedrun - I drew an inverter in 2 minutes!](https://youtu.be/vyZ2hKOeX0Y)
 - [Draw your own MOSFETs with SiliWiz!](https://youtu.be/V9xCa4RNfCM)
 - [How does SiliWiz work? Uri Shaked explains](https://youtu.be/sscRSCdGjJA)
 
 #### TinyTapeout
-- [Tiny Tapeout - From idea to custom chip without breaking the bank!](https://youtu.be/qVWq_XZko-M)
-- [Tiny Tapeout 3 - Getting started with Wokwi](https://youtu.be/ZD9jvSm50zM)
-- [Tiny Tapeout 4 - working with an HDL](https://youtu.be/KbWb6xd9jFE)
-- 
-- [Tiny Tapeout 5 - Getting your design ready to submit](https://youtu.be/m62HLt4BjeA)
+- [Matt Venn: Tiny Tapeout - From idea to custom chip without breaking the bank!](https://youtu.be/qVWq_XZko-M)
+- [Efabless: Webinar - Build Your First Chip with Tiny Tapeout](https://youtu.be/UVZK-kmN7wc)
+- [Matt Venn: Tiny Tapeout 3 - Getting started with Wokwi](https://youtu.be/ZD9jvSm50zM)
+- [Matt Venn: Tiny Tapeout 4 - working with an HDL](https://youtu.be/KbWb6xd9jFE)
+- [Matt Venn: Tiny Tapeout 5 - Getting your design ready to submit](https://youtu.be/m62HLt4BjeA)
 
 ## Various Videos
 
