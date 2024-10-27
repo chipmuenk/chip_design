@@ -2,7 +2,7 @@
 Documentation (and maybe software later) on open-source chip design
 
 
-### Zero To Asic, TinyTapeout, Siliwiz - Matt Venn's Quest for Open Source Silicon
+## Zero To Asic, TinyTapeout, Siliwiz - Matt Venn's Quest for Open Source Silicon
 
 [Zero To ASIC](https://www.zerotoasiccourse.com/)
 
@@ -16,7 +16,7 @@ Highlighted Videos:
 - [Getting Started with Open Source Silicon, Presented By: Matthew Venn](https://youtu.be/sJhgTTS-j5Y), a long (1:25) presentation for the 
 IEEE Solid-State Circuits Society.
 
-#### Siliwiz
+### Siliwiz
 
 [Siliwiz](https://app.siliwiz.com/) is a browser based tool to quickly layout simple semiconductor structures (resistors, MOS transistors, inverters ...), simulate them and view the cross section. Absoulutely amazing!
 
@@ -25,7 +25,19 @@ IEEE Solid-State Circuits Society.
 - [Draw your own MOSFETs with SiliWiz!](https://youtu.be/V9xCa4RNfCM)
 - [How does SiliWiz work? Uri Shaked explains](https://youtu.be/sscRSCdGjJA)
 
-#### TinyTapeout
+
+### Digital Chip Design with Wokwi
+
+[Wokwi](https://wokwi.com/) is a browser based tool for drawing and simulating digital circuits with embedded microcontrollers like Arduino or ESP32. The microcontrollers can be programmed in C or MicroPython.
+
+[Wokwi Einführung](https://youtu.be/QYf0AeeR2r8) (Deutsch)
+
+Wokwi is also used For the Tiny Tapeout project to design and simulate digital circuits that can be exported later to Tiny Tapeout.
+
+Start with the [mini digital design course](https://tinytapeout.com/digital_design/) on the Tiny Tapeout homepage 
+and open the [Wokwi template](https://wokwi.com/projects/354858054593504257) on the [first course page](https://tinytapeout.com/digital_design/wokwi/).
+
+### Tiny Tapeout
 - [Matt Venn: Tiny Tapeout - From idea to custom chip without breaking the bank!](https://youtu.be/qVWq_XZko-M)
 - [Efabless: Webinar - Build Your First Chip with Tiny Tapeout](https://youtu.be/UVZK-kmN7wc)
 - [Matt Venn: Tiny Tapeout 3 - Getting started with Wokwi](https://youtu.be/ZD9jvSm50zM)
@@ -34,5 +46,5 @@ IEEE Solid-State Circuits Society.
 
 ## Various Videos
 
-- [Wokwi Einführung](https://youtu.be/QYf0AeeR2r8) (Deutsch)
+
 - [Open Source Analog ASIC design: Entire Process](https://youtu.be/Eu_crbcBdNM)
